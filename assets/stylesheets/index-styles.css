@@ -1,0 +1,30 @@
+#content {
+	width: 600px;
+	background: #fff;
+}
+
+.crazy-color{
+	color: fuchsia;
+}
+#content {
+	width: 600px;
+	background: #fff;
+	border: 10px solid blue;
+	padding: 15px 10px 20px 5px; /* T: 15px, R: 10px, B: 20px, L: 5px*/
+	margin: 20px auto 5px;  /* T: 20px, R: auto, B: 5px, L: auto */
+}
+img{
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
+#footer{
+	height: 20px;
+	width: 600px;
+	border: 10px solid yellow;
+	background-color: #336699;
+	color: white;
+	font-size: 12px;
+	padding: 20px;
+	margin: auto;
+}
